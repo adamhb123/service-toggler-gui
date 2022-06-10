@@ -1,5 +1,7 @@
 # Service Toggler GUI
 Very simple (read: low-effort) GUI interface for the service application. Supports service {start, stop, restart}
+
+Requires GTK3
 ## Usage
 ```
 chmod +x ./service-toggler
